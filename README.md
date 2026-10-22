@@ -121,7 +121,7 @@ Player interface preview:
 
 ## 📥 Download & Install
 
-1. Open the [**Latest Release**](https://github.com/Denver1769/NS_PlayerPlus/releases/latest) page.
+1. Open the [**Latest Release**](https://github.com/DenverIsAlive/NS_PlayerPlus/releases) page.
 2. Download the **APK** file from the **Assets** section.
 3. Enable **Install from unknown sources** if Android asks.
 4. Open the APK and tap **Install**.
