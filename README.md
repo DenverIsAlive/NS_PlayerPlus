@@ -144,7 +144,7 @@ NS Player+ is only a media player. It does **not** provide, host or distribute a
 
 <div align="center">
 
-**Made with ❤️ by [DenverIsAlive](https://github.com/Denver1769)**
+**Made with ❤️ by [DenverIsAlive](https://t.me/Denver1769)**
 
 ⭐ If you like this project, please give it a star!
 
